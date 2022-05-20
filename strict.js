@@ -27,3 +27,9 @@ function strict() {
 function notStrict() {
   return "I'm not strict.";
 }
+
+// Strict mode for modules
+function strict() {
+  // because this is a module, I'm strict by default
+}
+export default strict;
