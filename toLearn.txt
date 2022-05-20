@@ -1,0 +1,10 @@
+debugging
+nested function
+ternary operator
+
+DOM manipulation 
+async-await - 4 to 5 examples
+export and import based
+
+DB
+populate and aggregation
